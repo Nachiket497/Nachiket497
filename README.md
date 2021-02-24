@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Pursuing 2nd year of Under Graduation at **Visvesvarya National Institute of Techonology ,Nagpur** in Electronics and Communication Engineering . 
-- I am also a part of @IvLabs (Robotics Club of VNIT )
+- I am also a part of **IvLabs** (Robotics Club of VNIT )
 - Currently Working on the Controls of Robotics but also interested in IOT . 
 - My current project is [Manipulation of The Robotic Arm ( Manipulator ) ](https://github.com/IvLabs/manipulation)
 
