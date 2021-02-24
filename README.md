@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there , I am Nachiket
 
 <!--
 **Nachiket497/Nachiket497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Pursuing 2nd year of mt Under Graduation in Electronics and Communication Engineering at **Visvesvarya Nation Institute of Techonology ,Nagpur**. Currently Working on the Controls of Robotics but also interested in IOT . My current project is [Manipulation of The Robotic Arm ( Manipulation) ](https://github.com/IvLabs/manipulation)
+
+[![Nachiket's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nachiket497)](https://github.com/Nachiket497/github-readme-stats)
+
