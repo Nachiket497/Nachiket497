@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Pursuing 2nd year of Under Graduation at **Visvesvarya National Institute of Techonology ,Nagpur** in Electronics and Communication Engineering :blush:
+- Pursuing 3rd year of Under Graduation at **Visvesvarya National Institute of Techonology ,Nagpur** in Electronics and Communication Engineering :blush:
 - I am also a part of **IvLabs** (Robotics Club of VNIT )
 - I am interested in Controls  , IOT , Android Development. 
 - Currently I am working on Reconfigurable Robots , Biped walking and Trajectory optimization
