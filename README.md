@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Pursuing 3rd year of Under Graduation at **Visvesvarya National Institute of Techonology ,Nagpur** in Electronics and Communication Engineering :blush:
-- I am also a part of **IvLabs** (Robotics Club of VNIT )
-- I am interested in Controls, IOT, Android Development. 
+- A part of **IvLabs** (Robotics Club of VNIT )
+- Interested in Controls, IOT, Android Development. 
+- [Portfolio](https://nachiket497.netlify.app/)
 
 [![Nachiket's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nachiket497)](https://github.com/Nachiket497/github-readme-stats)
 
