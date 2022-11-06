@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Pursuing 3rd year of Under Graduation at **Visvesvarya National Institute of Techonology ,Nagpur** in Electronics and Communication Engineering :blush:
+- Pursuing final year of Under Graduation at **Visvesvarya National Institute of Techonology ,Nagpur** in Electronics and Communication Engineering :blush:
 - A part of **IvLabs** (Robotics Club of VNIT )
 - Interested in Controls, IOT, Android Development. 
 - [Portfolio](https://nachiket497.netlify.app/)
