@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Pursuing final year of Under Graduation at **Visvesvarya National Institute of Techonology ,Nagpur** in Electronics and Communication Engineering :blush:
-- A part of **IvLabs** (Robotics Club of VNIT )
+- A part of **IvLabs** (Robotics and AI Lab at VNIT )
+- Founder of **IDS** (Club for Web, Android and Game development at VNIT)
 - Interested in Controls, IOT, Android Development. 
 - [Portfolio](https://nachiket497.netlify.app/)
 
