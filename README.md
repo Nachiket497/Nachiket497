@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - Interested in Controls, IOT, Android Development. 
 - [Portfolio](https://nachiket497.streamlit.app/)
 
-[![Nachiket's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nachiket497)](https://github.com/Nachiket497/github-readme-stats)
-
+<!--[![Nachiket's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nachiket497)](https://github.com/Nachiket497/github-readme-stats)
+-->
