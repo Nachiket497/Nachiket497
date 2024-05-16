@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - Completed Under Graduation at **Visvesvarya National Institute of Techonology, Nagpur** in Electronics and Communication Engineering :blush:
 - A part of **IvLabs** (Robotics and AI Lab at VNIT)
 - Founder of **IDS** (Club for Web, Android and Game development at VNIT)
-- Interested in Controls, IOT, Android Development. 
+- Interested in Digital Verification, Android Developement.  
 - [Portfolio](https://nachiket497.streamlit.app/)
 
 <!--[![Nachiket's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nachiket497)](https://github.com/Nachiket497/github-readme-stats)
